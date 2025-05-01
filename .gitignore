@@ -1,0 +1,7 @@
+*.o
+*.out
+a.out
+*.exe
+build/
+.vscode/
+.DS_Store
